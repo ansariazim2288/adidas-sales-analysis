@@ -1,5 +1,5 @@
 # Adidas Sales Analysis
-
+<img src="adidas-logo.png" width="400">
 Sales performance analysis of Adidas products sold across major U.S. retailers, covering **January 2020 – December 2021**.
 
 ## File
